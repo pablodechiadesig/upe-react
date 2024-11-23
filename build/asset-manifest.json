@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "//upe-react/build/static/css/main.c73af5b1.css",
+    "main.js": "//upe-react/build/static/js/main.51d38305.js",
+    "static/js/453.0d77cff0.chunk.js": "//upe-react/build/static/js/453.0d77cff0.chunk.js",
+    "static/media/alu_estudiando.jpg": "//upe-react/build/static/media/alu_estudiando.6874702bdb4492310650.jpg",
+    "static/media/estud_c_robot.jpg": "//upe-react/build/static/media/estud_c_robot.c024227d7f5e443a549a.jpg",
+    "static/media/estudiante_1.jpg": "//upe-react/build/static/media/estudiante_1.b92b628eefc5a7ddef84.jpg",
+    "static/media/estudiante_2.jpg": "//upe-react/build/static/media/estudiante_2.cc631e23301e8dfc0a69.jpg",
+    "static/media/claudio_2.jpg": "//upe-react/build/static/media/claudio_2.ac7c87f3a5920e2c3e75.jpg",
+    "static/media/logo.svg": "//upe-react/build/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/istagram.svg": "//upe-react/build/static/media/istagram.ec8422c19ce713ef03e40b074755c768.svg",
+    "static/media/twetter.svg": "//upe-react/build/static/media/twetter.90a6ec8ebb3a6843d33f3d4e2590e3a7.svg",
+    "index.html": "//upe-react/build/index.html",
+    "static/media/facebook_redon.svg": "//upe-react/build/static/media/facebook_redon.ebe251391dd4a37954bfe54c9a493cb3.svg",
+    "static/media/ciencias_bas.svg": "//upe-react/build/static/media/ciencias_bas.1328fc5881fbcef563a5e0b31979077b.svg",
+    "static/media/mate_pro.svg": "//upe-react/build/static/media/mate_pro.7e4e0d3821912149845448979d92afaa.svg",
+    "static/media/right_arrow.svg": "//upe-react/build/static/media/right_arrow.5701354a4e1393e8159ac58d9b998593.svg",
+    "static/media/flecha_izq.svg": "//upe-react/build/static/media/flecha_izq.c6278d5f19aa58c858c0ff796167d5ec.svg",
+    "static/media/chevron_arrib.svg": "//upe-react/build/static/media/chevron_arrib.ae1c47352468f1204f86acc757d711dc.svg",
+    "static/media/nivela_2.svg": "//upe-react/build/static/media/nivela_2.0ded4cdbdcf577d3afdd4c45e6c87752.svg",
+    "static/media/close.svg": "//upe-react/build/static/media/close.c27704e0b1c940179e8ce52bb7a5d6b1.svg",
+    "static/media/menu.svg": "//upe-react/build/static/media/menu.859094926a7e6f21fe8343bed0357c02.svg",
+    "main.c73af5b1.css.map": "//upe-react/build/static/css/main.c73af5b1.css.map",
+    "main.51d38305.js.map": "//upe-react/build/static/js/main.51d38305.js.map",
+    "453.0d77cff0.chunk.js.map": "//upe-react/build/static/js/453.0d77cff0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c73af5b1.css",
+    "static/js/main.51d38305.js"
+  ]
+}
